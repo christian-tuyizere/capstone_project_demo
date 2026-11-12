@@ -1,0 +1,9 @@
+# Streamlit installs these when the app starts.
+# YOUR DOMAIN: scikit-learn must be the version that saved intent_classifier.joblib.
+# In the Colab notebook of Part 1 run:   import sklearn; print(sklearn.__version__)
+# and write that number in place of 1.8.0 below.
+streamlit
+scikit-learn==1.8.0
+joblib
+requests
+openai
