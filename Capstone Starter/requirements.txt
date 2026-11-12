@@ -3,7 +3,7 @@
 # In the Colab notebook of Part 1 run:   import sklearn; print(sklearn.__version__)
 # and write that number in place of 1.8.0 below.
 streamlit
-scikit-learn==1.8.0
+scikit-learn
 joblib
 requests
 openai
